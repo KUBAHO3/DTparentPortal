@@ -1,0 +1,53 @@
+/* 
+#asset1{
+    border-radius: 50%;
+
+} */
+.navbar{
+    background-color: #F0F0F0;
+}
+.rounded-circle{
+    margin-left: 10px;
+}
+
+.card{
+    margin-top: 40px;
+}
+#bigassethead{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 30px;
+    letter-spacing: 0.08em;
+    color: #FFFFFF;
+}
+#cardbody{
+    /* margin-left: 20px; */
+    padding-left: 40px;
+}
+#welcomehd{
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 27px;
+letter-spacing: 0.08em;
+color: #000000;
+}
+#welcometxt{
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 27px;
+letter-spacing: 0.08em;
+color: #000000;
+}
+#buttons{
+    padding: 20px 0px 20px 0px;
+}
+
+input.form-control{
+    margin-bottom: 10px;
+}
