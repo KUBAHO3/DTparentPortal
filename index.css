@@ -51,3 +51,12 @@ color: #000000;
 input.form-control{
     margin-bottom: 10px;
 }
+#values{
+    margin-top: -20px;
+    border: #000000;
+    padding: 10px;
+}
+
+.bg-primary{
+    background-color: #0000FF;
+}
